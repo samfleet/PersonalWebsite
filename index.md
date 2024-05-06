@@ -42,15 +42,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I have an interest in financial services and have been looking into financial/equity research. I am interested in finance, but feel like with my engineering background I would be more interested working in a more technical space. That's the reason I believe it'd be the right fit for me.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I really enjoy baseball analytics, poker, and excel modeling.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
