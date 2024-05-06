@@ -6,10 +6,6 @@ I am a student at Lehigh in the Integrated Business and Engineering program stud
 
 <!-- Upload your own photo and change the path -->
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/samfleet/samfleet.github.io/raw/master/images/logo.png" width="50%">
-</p>
-
 ---
 
 ## Portfolio
