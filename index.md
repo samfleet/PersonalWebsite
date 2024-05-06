@@ -1,13 +1,13 @@
 ## About Me
 
-What's up? hey\|you
+My name is Sam Fleetwood
 
-I am an awesome student at Lehigh, you should hire me!
+I am a student at Lehigh in the Integrated Business and Engineering program studying Finance and Industrial & Systems Engineering
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="https://github.com/samfleet/samfleet.github.io/raw/master/images/logo.png" width="50%">
 </p>
 
 ---
